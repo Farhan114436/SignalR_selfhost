@@ -1,0 +1,12 @@
+C:\Users\AROVI\Downloads\SignalR_selfhost\C#\JavascriptClient\bin\JavascriptClient.dll.config
+C:\Users\AROVI\Downloads\SignalR_selfhost\C#\JavascriptClient\bin\JavascriptClient.dll
+C:\Users\AROVI\Downloads\SignalR_selfhost\C#\JavascriptClient\bin\JavascriptClient.pdb
+C:\Users\AROVI\Downloads\SignalR_selfhost\C#\JavascriptClient\obj\Debug\JavascriptClient.csprojResolveAssemblyReference.cache
+C:\Users\AROVI\Downloads\SignalR_selfhost\C#\JavascriptClient\obj\Debug\JavascriptClient.dll
+C:\Users\AROVI\Downloads\SignalR_selfhost\C#\JavascriptClient\obj\Debug\JavascriptClient.pdb
+C:\Users\AROVI\Desktop\SignalR_selfhost\C#\JavascriptClient\bin\JavascriptClient.dll.config
+C:\Users\AROVI\Desktop\SignalR_selfhost\C#\JavascriptClient\bin\JavascriptClient.dll
+C:\Users\AROVI\Desktop\SignalR_selfhost\C#\JavascriptClient\bin\JavascriptClient.pdb
+C:\Users\AROVI\Desktop\SignalR_selfhost\C#\JavascriptClient\obj\Debug\JavascriptClient.csprojResolveAssemblyReference.cache
+C:\Users\AROVI\Desktop\SignalR_selfhost\C#\JavascriptClient\obj\Debug\JavascriptClient.dll
+C:\Users\AROVI\Desktop\SignalR_selfhost\C#\JavascriptClient\obj\Debug\JavascriptClient.pdb
